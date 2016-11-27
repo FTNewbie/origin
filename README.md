@@ -1,3 +1,3 @@
 # origin
 
-To są początki używania GitHub'u. Don't judge <first steps in Git and GitHub>
+To są początki używania GitHub'u. Don't judge, first steps in Git and GitHub.
